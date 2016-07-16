@@ -17,9 +17,9 @@ Create one R script called run_analysis.R that does the following:
 #To Use the Script
 
 - 1- Save the run_analysis.R script to your local working directory.
-- 2- Modify the script (line: ###) to reflect the path of your working directory.
+- 2- Modify the script (line 20) to reflect the path of your working directory.
 - 3- From RStudio, go to File / Open File and then select run_analysis.R.
 - 4- Run source.  The script automatically installs package dependencies and 
 	downloads and unzips the required data file.
-- 5- The script will generate and save a new tidy data file (filename.txt) to
+- 5- The script will generate and save a new tidy data file (tidydata.txt) to
 	your working directory.
