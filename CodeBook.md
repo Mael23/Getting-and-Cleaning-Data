@@ -159,5 +159,11 @@ Data are found in 6 files (3 for the train data, 3 for test data).
 
 - 'X_train(or test).txt': Each row idenifies the measurement/calculated value for each of the variables. 
 
+##Data Description for tidydata.txt
 
+- Col 1 - Subject number
+- Col 2 - Activity label
+- Col 3-81 - Measurement for the 79 variables in features.txt above
+
+File will have 1 header row followed by 180 rows of observation data.
 
